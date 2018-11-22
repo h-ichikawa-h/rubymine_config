@@ -3,6 +3,12 @@
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="RecentFiles" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
